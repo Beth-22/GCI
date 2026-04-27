@@ -1,0 +1,28 @@
+data science - analyzes large sets of data to provide new insights and information
+
+data
+structured. organized to rows and columns qualitative and quantitative
+unstructured. does not easily fit into tables. e.g images, videos, audio, text
+
+
+data collection methods
+open data, kaggle,SIGNATE
+
+data science workflow steps
+understanding: examine cxrs, biases, check missing values, hypothesize which data is important
+preprocessing: organize necessary data, handle bias or missing data
+model building: train a model
+model evaluation: evaluate how well the model does. 
+
+we may move back and forth between these steps.
+
+
+STEP 1. UNDERSTANDING THE data
+
+compute summary stats, visulize. hypothesize about whether the data is useful fro analysis
+methods: 
+
+STEP 2: DATA preprocessing
+to a format that's easier to analyze.
+e.g cases where scales of feature differ. kg and g
+in cases of categorical data we can
